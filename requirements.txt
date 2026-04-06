@@ -1,0 +1,21 @@
+# Temel
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+openai>=1.30.0
+
+# Araştırma agent (Modül 3, Örnek 14)
+tavily-python>=0.3.0
+
+# Belge analiz (Örnek 13)
+PyPDF2>=3.0.0
+
+# Async (Örnek 15)
+# asyncio standart kütüphane ile geliyor
+
+# Opsiyonel: Vektör veritabanı
+# chromadb>=0.4.0
+# pinecone-client>=3.0.0
+
+# Opsiyonel: LangGraph (karmaşık akışlar)
+# langgraph>=0.1.0
