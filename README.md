@@ -2,10 +2,7 @@
 
 > *"Prompt yazmak öğrenmiyorsunuz. Makinenin dilini öğreniyorsunuz."*
 
-Bu repo, **3 saatlik canlı eğitimin** kalıcı kaynağıdır. Hem eğitim sırasında hem de sonrasında bağımsız bir öğretici olarak kullanabilirsiniz.
-
-Kod yazanlar için de, yazmayanlar için de tasarlandı. Tek ön koşul: merak.
-
+Kod yazanlar için de, yazmayanlar için de tasarlandı. 
 ---
 
 ## İçindekiler
