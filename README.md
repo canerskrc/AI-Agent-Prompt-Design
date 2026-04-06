@@ -1,8 +1,4 @@
 # Prompt Design & Agent Düşüncesi
-
-> *"Prompt yazmak öğrenmiyorsunuz. Makinenin dilini öğreniyorsunuz."*
-
-Kod yazanlar için de, yazmayanlar için de tasarlandı. 
 ---
 
 ## İçindekiler
@@ -72,12 +68,3 @@ Bunun yerine şunlara odaklanır:
 
 ---
 
-## Eğitmen
-
-Aerospace engineer & AI consultant. NASA teknik jüri üyesi. Stanford destekli nörobilim araştırması. Türkiye'deki kurumsal AI eğitimlerinin büyük bölümünü tasarladım.
-
-Bu repoyu açık bırakıyorum çünkü iyi eğitim kapalı tutulmamalı.
-
----
-
-*Son güncelleme: Nisan 2026*
