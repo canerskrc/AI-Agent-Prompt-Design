@@ -10,7 +10,7 @@
 | [02](modules/02-prompt-architecture/) | Prompt Mimarisi — 5 katman, sonsuz kullanım | 45 dk |
 | [03](modules/03-agent-thinking/) | Agent Düşüncesi — Prompt'tan sistem tasarımına | 55 dk |
 
-### Dökümanlar
+### Dokümanlar
 | Dosya | İçerik |
 |-------|--------|
 | [crash-course.md](docs/crash-course.md) | Eğitime katılmayanlar için hızlı giriş |
